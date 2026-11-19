@@ -16,3 +16,9 @@ consent-cdn.sueddeutsche.de
 consent.cookiebot.com
 consent.trustarc.com
 consent.app.cookieinformation.com
+cdn-cookieyes.com
+cmp.consentik.com
+cmp.secureprivacy.ai	
+cookierocks.com	
+delivery.consentmanager.net
+policy.app.cookieinformation.com
