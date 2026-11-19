@@ -1,5 +1,4 @@
 # no more cookie consent popups
-# Curated from my own log
 
 consent.yahoo.com
 widget.clym-sdk.net
@@ -7,8 +6,6 @@ cdn.cookielaw.org
 consentcdn.cookiebot.com
 quantcast.mgr.consensu.org
 *.mgr.consensu.org
-
-# from https://raw.githubusercontent.com/zoellner/cookie-monster/main/data/germany.csv
 notice.sp-stage.net
 cdn.privacy-mgmt.com
 gdpr-tcfv2.sp-prod.net
@@ -17,3 +14,4 @@ usercentrics.eu
 mgr.consensu.org
 consent-cdn.sueddeutsche.de
 consent.cookiebot.com
+consent.trustarc.com
