@@ -24,3 +24,5 @@ delivery.consentmanager.net
 policy.app.cookieinformation.com
 *.consentify.app
 cdn-apac.onetrust.com
+banner.cookiescan.com
+cmp.osano.com
