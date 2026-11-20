@@ -22,4 +22,5 @@ cmp.secureprivacy.ai
 cookierocks.com	
 delivery.consentmanager.net
 policy.app.cookieinformation.com
-consentify.app
+*.consentify.app
+cdn-apac.onetrust.com
