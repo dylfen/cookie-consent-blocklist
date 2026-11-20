@@ -25,5 +25,6 @@ policy.app.cookieinformation.com
 *.consentify.app
 cdn-apac.onetrust.com
 banner.cookiescan.com
+cdn.cookiescan.com
 cmp.osano.com
 cc.cdn.civiccomputing.com
