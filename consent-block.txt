@@ -26,3 +26,4 @@ policy.app.cookieinformation.com
 cdn-apac.onetrust.com
 banner.cookiescan.com
 cmp.osano.com
+cc.cdn.civiccomputing.com
