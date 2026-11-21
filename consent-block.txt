@@ -66,6 +66,7 @@ consent.app.cookieinformation.com
 consent.canalboat.co.uk
 consent.cmp.oath.com
 consent.cookiebot.com
+consent.cookiebot.eu
 consent.cookiefirst.com	
 consent.dadoslegais.com
 consent.digiapi.com
@@ -106,3 +107,7 @@ widget.clym-sdk.net
 *.piwik.pro
 *.containers.piwik.pro
 consent.cookiebot.com-v2.edgekey.net
+app.getconzent.com
+consent.samtyk.com
+consentapi.samtyk.com
+consentapi.cookiepopup.net
