@@ -1,5 +1,6 @@
 # no more cookie consent popups
 
+*.usercentrics.eu
 *.cmp.usercentrics.eu	
 *.consentify.app
 *.mgr.consensu.org
@@ -52,6 +53,7 @@ cmp.quantcast.com
 cmp.railmagazine.com
 cmp.secureprivacy.ai	
 cmp.setupcmp.com
+cmp.sirdata.io
 cmp.springer.com
 cmp.springernature.com
 cmp.telerama.fr
@@ -100,5 +102,7 @@ mgr.consensu.org
 notice.sp-stage.net
 policy.app.cookieinformation.com
 quantcast.mgr.consensu.org
-usercentrics.eu
 widget.clym-sdk.net
+*.piwik.pro
+*.containers.piwik.pro
+consent.cookiebot.com-v2.edgekey.net
