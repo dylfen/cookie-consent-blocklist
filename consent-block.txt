@@ -111,3 +111,15 @@ app.getconzent.com
 consent.samtyk.com
 consentapi.samtyk.com
 consentapi.cookiepopup.net
+api.consentpro.com	
+api.kiprotect.com	
+cdn.kiprotect.com	
+cdn.kookiok.com	
+cdn.primeconsent.com	
+cdn.termsfeedtag.com	
+cdn.transcend.io	
+consentio.cz	
+js.hs-banner.com	
+js.hs-scripts.com	
+sdk.privacy-center.org	
+transcend-cdn.com
