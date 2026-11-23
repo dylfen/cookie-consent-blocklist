@@ -147,3 +147,4 @@ testcdn.priv.center
 transcend-cdn.com
 ucm.ardentprivacy.ai	
 *.clym-sdk.net
+*.gatekeeperconsent.com
