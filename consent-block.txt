@@ -1,5 +1,3 @@
-# no more cookie consent popups
-
 *.clym-sdk.net
 *.cmp.m10s.io	
 *.cmp.usercentrics.eu	
@@ -8,6 +6,8 @@
 *.gatekeeperconsent.com
 *.hs-banner.com
 *.hs-scripts.com
+*.ketchcdn.com	
+*.ketchjs.com	
 *.mgr.consensu.org
 *.piwik.pro
 *.priv.center	
@@ -21,6 +21,7 @@ app.getconzent.com
 app.termly.io	
 app.trustworks.io	
 appconsent.io
+assets.cookies.skoda-auto.com	
 banner.cookiescan.com
 bigidcmp.cloud	
 cc.cdn.civiccomputing.com
@@ -121,6 +122,7 @@ consentcdn.cookiebot.com
 consentio.cz	
 cookie-consent.festo.com
 cookie.consents.app
+cookie.pace.dk
 cookiechimp.com	
 cookiehub.net	
 cookierocks.com	
@@ -136,6 +138,7 @@ delivery.consentmanager.net
 edge.cookieconsent.io	
 gdpr-tcfv2.sp-prod.net
 gettermscmp.com	
+gtm.skisport.dk	
 ids-irl.syrenis.com	
 lib.cooki.fi
 mgr.consensu.org
@@ -150,3 +153,4 @@ static.axept.io
 testcdn.priv.center	
 transcend-cdn.com
 ucm.ardentprivacy.ai
+www.googletagmanager.com
