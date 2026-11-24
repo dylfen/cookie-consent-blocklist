@@ -1,8 +1,11 @@
 # no more cookie consent popups
 
+*.clym-sdk.net
+*.cmp.m10s.io	
 *.cmp.usercentrics.eu	
 *.consentify.app
 *.containers.piwik.pro
+*.gatekeeperconsent.com
 *.hs-banner.com
 *.hs-scripts.com
 *.mgr.consensu.org
@@ -78,6 +81,8 @@ cmp.springer.com
 cmp.springernature.com
 cmp.telerama.fr
 cmp.uniconsent.com	
+cmpv2.bilbasen.dk
+cmpv2.dba.dk
 cmpv2.pcworld.com
 config.clym-widget.net	
 consent-cdn.sueddeutsche.de
@@ -132,19 +137,16 @@ edge.cookieconsent.io
 gdpr-tcfv2.sp-prod.net
 gettermscmp.com	
 ids-irl.syrenis.com	
-*.hs-banner.com	
-*.hs-scripts.com	
 lib.cooki.fi
 mgr.consensu.org
 notice.sp-stage.net
 onetrust.techservices.illinois.edu
 policy.app.cookieinformation.com
+policy.cookieinformation.com
 prod-fra.truendo.com	
 quantcast.mgr.consensu.org
 sdk.privacy-center.org	
 static.axept.io	
 testcdn.priv.center	
 transcend-cdn.com
-ucm.ardentprivacy.ai	
-*.clym-sdk.net
-*.gatekeeperconsent.com
+ucm.ardentprivacy.ai
