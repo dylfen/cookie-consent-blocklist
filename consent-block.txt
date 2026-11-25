@@ -68,6 +68,7 @@ cmp.gemius.com
 cmp.graziadaily.co.uk
 cmp.huffingtonpost.fr
 cmp.infopro-digital.com
+cmp.inmobi.com
 cmp.lavie.fr
 cmp.lemonde.fr
 cmp.lepoint.fr
