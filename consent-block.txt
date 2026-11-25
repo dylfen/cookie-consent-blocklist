@@ -3,13 +3,16 @@
 *.cmp.usercentrics.eu	
 *.consentify.app
 *.containers.piwik.pro
+*.cookielaw.org	
+*.cookiepro.com	
+*.delivery.consentmanager.net
 *.gatekeeperconsent.com
 *.hs-banner.com
 *.hs-scripts.com
 *.ketchcdn.com	
 *.ketchjs.com	
-static.fastcmp.com
 *.mgr.consensu.org
+*.onetrust.com	
 *.piwik.pro
 *.priv.center	
 *.usercentrics.eu
@@ -17,8 +20,8 @@ analytics-consent-manager.azureedge.net
 api.consentjs.datagrail.io
 api.consentpro.com	
 api.kiprotect.com	
+app.cookiepilot.dk	
 app.fitconsent.com	
-*.delivery.consentmanager.net
 app.getconzent.com	
 app.termly.io	
 app.trustworks.io	
@@ -29,6 +32,7 @@ bigidcmp.cloud
 cc.cdn.civiccomputing.com
 cdn-apac.onetrust.com
 cdn-cookieyes.com
+cdn-eu.cookietractor.com	
 cdn-eu1.syrenis.io	
 cdn-prod.securiti.ai	
 cdn.ampproject.org	
@@ -52,6 +56,7 @@ cdn.privacy-mgmt.com
 cdn.termsfeedtag.com	
 cdn.transcend.io	
 cmp-static.nature.com
+cmp.bonniernews.se
 cmp.cdn.thesun.co.uk
 cmp.cdn.thesun.ie
 cmp.consentik.com
@@ -152,7 +157,9 @@ prod-fra.truendo.com
 quantcast.mgr.consensu.org
 sdk.privacy-center.org	
 static.axept.io	
+static.fastcmp.com
 testcdn.priv.center	
+tracking.idenyt.dk
 transcend-cdn.com
 ucm.ardentprivacy.ai
 www.googletagmanager.com
