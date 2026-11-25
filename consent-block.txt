@@ -17,6 +17,7 @@ api.consentjs.datagrail.io
 api.consentpro.com	
 api.kiprotect.com	
 app.fitconsent.com	
+*.delivery.consentmanager.net
 app.getconzent.com	
 app.termly.io	
 app.trustworks.io	
