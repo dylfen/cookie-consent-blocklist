@@ -8,6 +8,7 @@
 *.hs-scripts.com
 *.ketchcdn.com	
 *.ketchjs.com	
+static.fastcmp.com
 *.mgr.consensu.org
 *.piwik.pro
 *.priv.center	
