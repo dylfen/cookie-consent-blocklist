@@ -164,3 +164,7 @@ tracking.idenyt.dk
 transcend-cdn.com
 ucm.ardentprivacy.ai
 www.googletagmanager.com
+api.bontii.dk	
+api.konsentii.com	
+ressource.gdpr-banner.awsmpsa.com
+termsbox.com
