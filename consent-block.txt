@@ -7,6 +7,7 @@
 *.cookiepro.com	
 *.delivery.consentmanager.net
 *.gatekeeperconsent.com
+*.gdpr-banner.awsmpsa.com
 *.hs-banner.com
 *.hs-scripts.com
 *.ketchcdn.com	
@@ -17,9 +18,11 @@
 *.priv.center	
 *.usercentrics.eu
 analytics-consent-manager.azureedge.net
+api.bontii.dk	
 api.consentjs.datagrail.io
 api.consentpro.com	
 api.kiprotect.com	
+api.konsentii.com	
 app.cookiepilot.dk	
 app.fitconsent.com	
 app.getconzent.com	
@@ -39,9 +42,6 @@ cdn.ampproject.org
 cdn.consentbit.com	
 cdn.consentmanager.net	
 cdn.cookie-script.com
-mpock.refurbed.dk	
-sst.legekaeden.dk	
-whisky.gumlet.io
 cdn.cookie.pii.ai
 cdn.cookiehub.eu	
 cdn.cookielaw.org
@@ -86,6 +86,7 @@ cmp.parkers.co.uk
 cmp.playpilot.co
 cmp.quantcast.com
 cmp.railmagazine.com
+cmp.rayo.dk	
 cmp.secureprivacy.ai	
 cmp.setupcmp.com
 cmp.sirdata.io
@@ -135,6 +136,7 @@ cookie-consent.festo.com
 cookie.consents.app
 cookie.pace.dk
 cookiechimp.com	
+cookiecontrol.bleau.dk
 cookiehub.net	
 cookierocks.com	
 cpm.consentric.io	
@@ -153,6 +155,7 @@ gtm.skisport.dk
 ids-irl.syrenis.com	
 lib.cooki.fi
 mgr.consensu.org
+mpock.refurbed.dk	
 notice.sp-stage.net
 onetrust.techservices.illinois.edu
 policy.app.cookieinformation.com
@@ -160,14 +163,15 @@ policy.cookieinformation.com
 prod-fra.truendo.com	
 quantcast.mgr.consensu.org
 sdk.privacy-center.org	
+ss.lampeshop.dk
+sst.legekaeden.dk	
+sst.seniorshop.dk
 static.axept.io	
 static.fastcmp.com
+termsbox.com
 testcdn.priv.center	
 tracking.idenyt.dk
 transcend-cdn.com
 ucm.ardentprivacy.ai
+whisky.gumlet.io
 www.googletagmanager.com
-api.bontii.dk	
-api.konsentii.com	
-*.gdpr-banner.awsmpsa.com
-termsbox.com
