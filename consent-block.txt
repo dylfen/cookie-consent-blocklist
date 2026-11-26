@@ -39,6 +39,9 @@ cdn.ampproject.org
 cdn.consentbit.com	
 cdn.consentmanager.net	
 cdn.cookie-script.com
+mpock.refurbed.dk	
+sst.legekaeden.dk	
+whisky.gumlet.io
 cdn.cookie.pii.ai
 cdn.cookiehub.eu	
 cdn.cookielaw.org
