@@ -75,6 +75,14 @@ cmp.eick.it
 cmp.finn.no
 cmp.gearupbooster.com
 cmp.gemius.com
+banner.awsmpsa.com	
+*.gdpr-banner.awsmpsa.com
+api.bontii.dk	
+cdn.consentmo.com
+cmp.rayo.dk
+cookiecontrol.bleau.dk
+privacy-cdn.a.intuit.com
+qlog-deny-gdpr-consent-prd.a.intuit.com
 cmp.graziadaily.co.uk
 cmp.histoire-et-civilisations.com
 cmp.huffingtonpost.fr
