@@ -256,3 +256,17 @@ ucookie.com.tr
 whisky.gumlet.io
 wix.consentik.com
 www.googletagmanager.com
+cmp-assets.pubtech.ai
+cmp.actiview.de
+cmp.bonniernews.se
+cmp.datasign.co
+cmp.dmgmediaprivacy.co.uk
+cmp.inmobi.com
+cmp.meteored.com
+cmp.osano.com
+cmp.secureprivacy.ai
+cmp.setupcmp.com
+cmp.seznam.cz
+cmp.wetteronline.de
+cmpv2.fn.de
+cmpv2.ostdeutscheallgemeine.com
